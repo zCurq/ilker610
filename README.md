@@ -1,8 +1,11 @@
 - 👋 Merhaba, ben İlker Sezer
-- 💻 Bildiğim yazılım dilleri:
-- [<img align="left" alt="Python" width="26px" src="![image](https://accupixel.co.uk/wp-content/uploads/2021/08/1200px-Python-logo-notext.svg_.png)" />][oneri]
+### Bildiğim Yazılım Dilleri ve Uygulamaları:
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][oneri]
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][hepsi]
+[<img align="left" alt="Bash" width="26px" src="https://cdn.discordapp.com/attachments/832611714817720341/854367711785779200/bash.png" />][hepsi]
 - 💻 Şuan da öğrendiğim yazılım dilleri:
-- ![Cpp](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png)
-- 💞️ ![Linux](https://upload.wikimedia.org/wikipedia/commons/d/dd/Linux_logo.jpg)
+> C++
+- 💞️ Linux
 - 📫 İletişim Bilgilerim:
 - > ilker.#4052 -Discord
