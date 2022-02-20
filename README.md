@@ -5,7 +5,7 @@
 > Python
 > Bash
 > C++
--💞️ OS:
+- 💞️ OS:
 > Linux
--📫 İletişim Bilgilerim:
+- 📫 İletişim Bilgilerim:
 > ilker.#4052 -Discord
