@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @ilker610
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-ilker610/ilker610 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+- 👋 Merhaba, ben İlker Sezer
+- 💻 Bildiğim yazılım dilleri:
+- ![Python İmage](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/12 İmage00px-Python-logo-notext.svg.png)
+- 💻 Şuan da öğrendiğim yazılım dilleri:
+- ![Cpp](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png)
+- 💞️ ![Linux](https://upload.wikimedia.org/wikipedia/commons/d/dd/Linux_logo.jpg)
+- 📫 İletişim Bilgilerim:
+- > ilker.#4052 -Discord
