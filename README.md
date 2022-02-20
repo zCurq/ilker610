@@ -9,8 +9,9 @@
 <img align="left" alt="Bash" width="26px" src="https://cdn.discordapp.com/attachments/832611714817720341/854367711785779200/bash.png" />
 
 
-- 💻 Şuan da öğrendiğim yazılım dilleri:
+### 💻 Şuan da öğrendiğim yazılım dilleri:
 > <h1>C++</h1>
-- 💞️ Linux
-- 📫 İletişim Bilgilerim:
+
+### 💞️ Linux
+### 📫 İletişim Bilgilerim:
 - > ilker.#4052 -Discord
