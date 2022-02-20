@@ -2,10 +2,10 @@
 
 
 ### Bildiğim Yazılım Dilleri ve Uygulamaları:
-Python
-Bash
-C++
+- Python
+- Bash
+- C++
 - 💞️ OS:
 Linux
 - 📫 İletişim Bilgilerim:
-ilker.#4052 -Discord
+- ilker.#4052 -Discord
