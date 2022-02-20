@@ -1,4 +1,4 @@
-- 👋 Merhaba, ben İlker Sezer
+### 👋 Merhaba, ben İlker Sezer
 
 
 ### Bildiğim Yazılım Dilleri ve Uygulamaları:
