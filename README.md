@@ -9,4 +9,4 @@
 - Linux
 - Windows 10/8.1
 ### 📫 İletişim Bilgilerim:
-- ƛ  ~ᴘᴇʀɪᴋᴀɴᴀᴛʟɪᴋᴜʀʙᴀɢᴀ~#4052 -Discord
+- https://discord.gg/ZRtJ76cqSB -Discord
