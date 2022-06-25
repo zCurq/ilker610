@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Jufus**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Bash**
 
 - 📫 How to reach me **byilker543@gmail.com**
 
