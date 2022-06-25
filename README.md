@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ilker610&label=Profile%20views&color=19d7f0&style=flat" alt="ilker610" /> </p>
 
-- 🔭 I’m currently working on [Tux Discord bot](Will be soon.)
+- 🔭 I’m currently working on **Jufus**
 
 - 🌱 I’m currently learning **JavaScript**
 
