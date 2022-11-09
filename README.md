@@ -19,6 +19,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 <a href="https://docs.microsoft.com/tr-tr/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="c#" width="40" height="40"/> </a> </p>
+[<img align="left" alt="Bash" width="26px" src="https://cdn.discordapp.com/attachments/832611714817720341/854367711785779200/bash.png" />][hepsi]
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ilker610&show_icons=true&theme=dark&locale=tr" alt="ilker610" /></p>
-
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ilker610&layout=compact&langs_count=8&theme=algolia"/>
