@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm İlker sezer</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=30&pause=1000&width=435&lines=Buras%C4%B1+ilker610'un+profili+!)](https://git.io/typing-svg)
 <h3 align="center">Python developer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ilker610&label=Profile%20views&color=19d7f0&style=flat" alt="ilker610" /> </p>
