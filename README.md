@@ -29,3 +29,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ilker610&show_icons=true&theme=dark&locale=tr" alt="ilker610" /></p>
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ilker610&layout=compact&langs_count=8&theme=algolia&locale=tr"/>
+
+---
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/1037732842374963251)](https://discord.com/users/1037732842374963251)
