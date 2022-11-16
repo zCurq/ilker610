@@ -2,18 +2,6 @@
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ilker610&label=Profile%20views&color=19d7f0&style=flat" alt="ilker610" /> </p>
-
-- 🔭 I’m currently working on **Bash**
-
-- 🌱 I’m currently learning **Bash**
-
-- 📫 How to reach me **byilker543@gmail.com**
-
-- ⚡ Fun fact **I'm Linux user !**
-
----
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
