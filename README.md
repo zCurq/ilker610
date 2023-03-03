@@ -8,4 +8,4 @@
 
 ---
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1037732842374963251)](https://discord.com/users/1037732842374963251)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1045693240562679889)](https://discord.com/users/1045693240562679889)
